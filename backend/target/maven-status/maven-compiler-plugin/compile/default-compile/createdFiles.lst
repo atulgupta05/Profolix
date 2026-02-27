@@ -1,0 +1,17 @@
+com\profolix\resume\config\CorsConfig.class
+com\profolix\resume\model\Profile.class
+com\profolix\resume\repository\EducationRepository.class
+com\profolix\resume\controller\ResumeController.class
+com\profolix\resume\model\Education.class
+com\profolix\resume\model\Project.class
+com\profolix\resume\ResumeApplication.class
+com\profolix\resume\service\ResumeService.class
+com\profolix\resume\repository\ExperienceRepository.class
+com\profolix\resume\model\Skill.class
+com\profolix\resume\model\Achievement.class
+com\profolix\resume\repository\AchievementRepository.class
+com\profolix\resume\model\Experience.class
+com\profolix\resume\repository\ProfileRepository.class
+com\profolix\resume\repository\ProjectRepository.class
+com\profolix\resume\repository\SkillRepository.class
+com\profolix\resume\config\DataSeeder.class
